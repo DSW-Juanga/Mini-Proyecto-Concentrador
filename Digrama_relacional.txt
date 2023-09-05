@@ -1,0 +1,6 @@
+Products 1 ---- * Sales * ---- 1 Customers
+                |
+                |
+                1
+                |
+              Cities
